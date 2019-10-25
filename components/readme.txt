@@ -1,0 +1,1 @@
+Product > Scheme > Edit Scheme and select Debug / Release

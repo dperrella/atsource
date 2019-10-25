@@ -1,0 +1,6 @@
+framework module Pods_atsource {
+  umbrella header "Pods-atsource-umbrella.h"
+
+  export *
+  module * { export * }
+}
